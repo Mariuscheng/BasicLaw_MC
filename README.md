@@ -4,11 +4,12 @@
 
 ## 使用說明
 
-下載整個檔案, 用android studio/vs code debug
+下載整個檔案, 用android studio/vs code debug  
 如iphone, 請用mac機
 
 # 備註
 
 不等於真實試卷, 作練習用途
 如果答案不齊整, 不要問候母親
+
 
