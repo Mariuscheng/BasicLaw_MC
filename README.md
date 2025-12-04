@@ -1,0 +1,11 @@
+# Basiclaw (A.I Project)
+
+這個專案有關 《基本法及香港國安法基本》測試模擬試卷
+
+## 使用說明
+
+下載整個檔案, 用android studio/vs code debug
+
+# 備註
+
+不等於真實試卷, 作練習用途
